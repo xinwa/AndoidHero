@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xinwa.android_hero.MyTopBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="#000000"
+    android:padding="5dp"
+    custom:title="标题"
+    custom:titleSize="15sp"
+    custom:titleColor="#ffffff"
+    custom:leftText="back"
+    custom:leftTextSize="13sp"
+    custom:leftBackground="@drawable/blue_button"
+    custom:rightText="more"
+    custom:rightTextSize="13sp"
+    custom:rightBackground="@drawable/blue_button"
+    />
+    
